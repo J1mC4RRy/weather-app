@@ -2,7 +2,10 @@ import streamlit as st
 import requests
 from datetime import datetime
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95167aa (commit1)
 # Constants
 API_KEY = st.secrets["OPEN_WEATHER_API_KEY"]
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
